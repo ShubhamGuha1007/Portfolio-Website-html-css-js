@@ -104,6 +104,7 @@ a:hover {
   overflow: hidden;
   transition: all 0.3 ease-in-out;
   background-color: #f0f0f0;
+  z-index: 100; /* Add this line */
 }
 
 .menu-links a {
